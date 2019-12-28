@@ -1100,10 +1100,11 @@ MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
 
 Package: com.zard.zremoter
 Section: System
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Author: Zard 
+Maintainer: Zard
 Architecture: iphoneos-arm
-Version: 1.1
-Name: zremoter
+Version: 1.0.1~b1
+Name: ZRemoter
 Filename: ./Debs/com.zard.zremoter_1.0.1~b1_iphoneos-arm.deb
 Size: 53230
 MD5sum: eebac578f37abe56a441d8eb8cfcdb97
