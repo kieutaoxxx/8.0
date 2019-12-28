@@ -1099,7 +1099,7 @@ Size: 20418
 MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
 
 Package: com.zard.zremoter
-Section: Utilities
+Section: System
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Architecture: iphoneos-arm
 Version: 1.1
