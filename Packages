@@ -1097,3 +1097,13 @@ Name: Apple File Conduit "2" (iOS 11+, arm64)
 Filename: ./Debs/uikittools_1.1.15-2_iphoneos-arm.deb
 Size: 20418
 MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
+
+Package: com.zard.zremoter
+Section: Utilities
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Name: zremoter
+Filename: ./Debs/com.zard.zremoter_1.0.1~b1_iphoneos-arm.deb
+Size: 53230
+MD5sum: eebac578f37abe56a441d8eb8cfcdb97
