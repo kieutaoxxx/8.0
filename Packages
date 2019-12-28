@@ -1086,3 +1086,14 @@ Depiction: http://cydia.saurik.com/info/uikittools/
 Filename: ./Debs/uikittools_1.1.15-2_iphoneos-arm.deb
 Size: 40998
 MD5sum: 89e0e1bff4aec393b49daf85a428fedc
+
+Package: com.cannathea.afc2d-arm64
+Section: Utilities
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Filename: ./Debs/uikittools_1.1.15-2_iphoneos-arm.deb
+Size: 20418
+MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
