@@ -365,3 +365,12 @@ Size: 24982
 MD5sum: 8db8182fd5bb59e786d7159504ef99d1
 Depends: mobilesubstrate (>= 0.9.5101), com.rpetrich.rocketbootstrap (>= 1.0.2), preferenceloader (>= 2.2.2), applist, ch.ringwald.hidsupportbeta, firmware (>= 12.4.1)
 Conflicts: com.kidsauto.kidsdaemon, jp.ashikase.mousesupport
+
+Package: com.zard.zremoter
+Name: zremoter
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Filename: ./Debs/com.zard.zremoter_1.0.1~b1_iphoneos-arm.deb
+Size: 53230
+MD5sum: eebac578f37abe56a441d8eb8cfcdb97
